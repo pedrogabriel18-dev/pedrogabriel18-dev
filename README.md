@@ -12,7 +12,7 @@ Sou um estudante de tecnologia do Brasil, concluindo o curso técnico de **Manut
 
 Estou no início da minha jornada como **desenvolvedor Full Stack** — ainda aprendendo, ainda ajustando o processo, ainda construindo minha base. Também me considero um **Vibe Coder**: penso em estrutura, lógica e experiência do usuário tanto quanto no código em si, usando ferramentas de IA como apoio ao longo do caminho.
 
-Meu objetivo de longo prazo é me tornar **Software Engineer**.
+Meu objetivo de longo prazo é me formar **Sistemas de Informação**.
 
 </div>
 
@@ -27,8 +27,8 @@ Meu objetivo de longo prazo é me tornar **Software Engineer**.
 ### Trajetória
 
 **Curso técnico** · Manutenção e Suporte em Informática *(2024–2026)*
-**Atual** · Beginner Full Stack Developer, construindo projetos reais
-**Objetivo** · Software Engineer
+**Atual** · Desenvolvedor Full Stack Iniciante, construindo projetos reais
+**Objetivo** · Sistemas de Informção
 
 </div>
 
