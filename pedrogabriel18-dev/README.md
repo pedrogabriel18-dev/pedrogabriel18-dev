@@ -12,13 +12,13 @@
 
 Olá! Eu sou o **Pedro Gabriel**, um estudante de tecnologia do Brasil, atualmente concluindo o curso técnico de **Manutenção e Suporte em Informática**.
 
-Estou no início da minha jornada como **Beginner Full Stack Developer** — ainda aprendendo, ainda errando, ainda ajustando o processo. Não sou especialista em nada aqui, e é exatamente por isso que esse perfil existe: para registrar essa evolução.
+Estou no início da minha jornada como **Desenvolvedor Full Stack Iniciciante** — ainda aprendendo, ainda errando, ainda ajustando o processo. Não sou especialista em nada aqui, e é exatamente por isso que esse perfil existe: para registrar essa evolução.
 
 Também me considero um **Vibe Coder** — desenvolvo pensando em experiência, estrutura e sensação do projeto tanto quanto no código em si, usando ferramentas de IA como apoio ao longo do caminho (mais sobre isso lá embaixo).
 
 - 🎓 Formando em **Manutenção e Suporte em Informática**
-- 💻 **Beginner Full Stack Developer**
-- 🎯 Objetivo de longo prazo: **Software Engineer**
+- 💻 **Desenvolvedor Full Stack Iniciante**
+- 🎯 Objetivo de longo prazo: **Me formar em Sistemas de Informação**
 - 🇧🇷 Brasil
 
 ---
@@ -27,8 +27,8 @@ Também me considero um **Vibe Coder** — desenvolvo pensando em experiência, 
 
 ```
 [2024-2026] Curso técnico em Manutenção e Suporte em Informática
-[ATUAL]     Beginner Full Stack Developer — construindo projetos reais
-[OBJETIVO]  Software Engineer
+[ATUAL]     Desenvolvedor Full Stack Iniciante — construindo projetos reais
+[OBJETIVO]  Sistemas de Informação
 ```
 
 Meu foco agora é sair da teoria e colocar a mão na massa: entender como um projeto nasce, se estrutura e evolui — não só escrever código que funciona, mas entender *por que* ele funciona daquele jeito.
@@ -111,7 +111,7 @@ Aplicação em JavaScript que gera nomes de código militares de forma automatiz
 
 ## `// VIBE CODING — MEU PROCESSO`
 
-Uso ferramentas de IA como parte do meu fluxo de desenvolvimento — principalmente **Anti-Gravity**, **Gemini**, **ChatGPT** e **Claude / Claude Code**. Mas elas são copilotos, não autopilotos.
+Uso ferramentas de IA como parte do meu fluxo de desenvolvimento — principalmente **Antigravity**, **Gemini**, **ChatGPT** e **Claude / Claude Code**. Mas elas são copilotos, não autopilotos.
 
 O que continua sendo trabalho meu em cada projeto:
 
@@ -153,7 +153,7 @@ A IA me ajuda a escrever mais rápido e a entender conceitos novos. Quem decide 
 
 <div align="center">
 
-`ROLE // BEGINNER FULL STACK DEVELOPER` &nbsp;•&nbsp; `OBJECTIVE // SOFTWARE ENGINEER`
+`ROLE // BEGINNER FULL STACK DEVELOPER` &nbsp;•&nbsp; `OBJECTIVE // INFORMATION SYSTEMS`
 
 ### *"Believe in yourself."*
 
