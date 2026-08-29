@@ -57,7 +57,7 @@
   <!-- linhas de status estilo terminal -->
   <text x="62" y="205" fill="#ff6b00" font-family="Courier New, monospace" font-size="13" letter-spacing="1">STATUS // LEARNING</text>
   <text x="62" y="225" fill="#ff6b00" font-family="Courier New, monospace" font-size="13" letter-spacing="1">ROLE // BEGINNER FULL STACK DEVELOPER</text>
-  <text x="62" y="245" fill="#ff6b00" font-family="Courier New, monospace" font-size="13" letter-spacing="1">OBJECTIVE // SOFTWARE ENGINEER</text>
+  <text x="62" y="245" fill="#ff6b00" font-family="Courier New, monospace" font-size="13" letter-spacing="1">OBJECTIVE // INFORMATION SYSTEMS</text>
   <text x="62" y="265" fill="#ff6b00" font-family="Courier New, monospace" font-size="13" letter-spacing="1">LOCATION // BRAZIL</text>
 
   <!-- barra de carregamento -->
