@@ -8,7 +8,13 @@
 
 <br/>
 
-## `// APRESENTAÇÃO`
+<div align="center">
+  <code>&gt; ACCESSING FILE... GRANTED</code>
+</div>
+
+<br/>
+
+## `[ USER_FILE // APRESENTAÇÃO ]`
 
 Olá! Eu sou o **Pedro Gabriel**, um estudante de tecnologia do Brasil, atualmente concluindo o curso técnico de **Manutenção e Suporte em Informática**.
 
@@ -23,7 +29,7 @@ Também me considero um **Vibe Coder** — desenvolvo pensando em experiência, 
 
 ---
 
-## `// TRAJETÓRIA E OBJETIVO`
+## `[ LOG_HISTORY // TRAJETÓRIA E OBJETIVO ]`
 
 ```
 [2024-2026] Curso técnico em Manutenção e Suporte em Informática
@@ -35,7 +41,7 @@ Meu foco agora é sair da teoria e colocar a mão na massa: entender como um pro
 
 ---
 
-## `// TECNOLOGIAS`
+## `[ SYS.STACK // TECNOLOGIAS ]`
 
 <div align="center">
 
@@ -54,7 +60,7 @@ Meu foco agora é sair da teoria e colocar a mão na massa: entender como um pro
 
 ---
 
-## `// PROJETOS EM DESTAQUE`
+## `[ ARCHIVE // PROJETOS EM DESTAQUE ]`
 
 ### 🔶 Library Hub `[PROJETO PRINCIPAL]`
 
@@ -68,7 +74,7 @@ Acervo digital / biblioteca escolar desenvolvido para a minha escola. Meu projet
 <tr>
 <td width="50%" valign="top">
 
-**🪖 Kayron Technology**
+**🖥️ Kayron Technology**
 
 Site fictício de uma empresa de tecnologia militar, com estética corporativa e tecnológica.
 
@@ -90,7 +96,7 @@ Catálogo digital de animais ameaçados e extintos da Caatinga e do Nordeste bra
 <tr>
 <td width="50%" valign="top">
 
-**🎖️ Gerador de Nome Militar**
+**⚙️ Gerador de Nome Militar**
 
 Aplicação em JavaScript que gera nomes de código militares de forma automatizada.
 
@@ -109,7 +115,7 @@ Aplicação em JavaScript que gera nomes de código militares de forma automatiz
 
 ---
 
-## `// VIBE CODING — MEU PROCESSO`
+## `[ PROCESS.LOG // VIBE CODING — MEU PROCESSO ]`
 
 Uso ferramentas de IA como parte do meu fluxo de desenvolvimento — principalmente **Anti-Gravity**, **Gemini**, **ChatGPT** e **Claude / Claude Code**. Mas elas são copilotos, não autopilotos.
 
@@ -129,16 +135,7 @@ A IA me ajuda a escrever mais rápido e a entender conceitos novos. Quem decide 
 
 ---
 
-## `// ESTATÍSTICAS`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrogabriel18-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogabriel18-dev&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&text_color=FFFFFF" alt="Linguagens mais usadas" width="48%" />
-</div>
-
----
-
-## `// CONTATO`
+## `[ COMMS // CONTATO ]`
 
 <div align="center">
 
@@ -153,8 +150,10 @@ A IA me ajuda a escrever mais rápido e a entender conceitos novos. Quem decide 
 
 <div align="center">
 
-`ROLE // BEGINNER FULL STACK DEVELOPER` &nbsp;•&nbsp; `OBJECTIVE // SOFTWARE ENGINEER`
+`STATUS // LEARNING` &nbsp;•&nbsp; `OBJECTIVE // SOFTWARE ENGINEER`
 
 ### *"Believe in yourself."*
+
+<sub><code>&gt; END OF FILE</code></sub>
 
 </div>
